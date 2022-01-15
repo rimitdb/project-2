@@ -91,6 +91,9 @@ margin-top: 50px;
     position: absolute;
     border: none;
 }
+.img-2:hover{
+    transform: skewY(15deg);
+}
 .section-2{
     display: flexbox;
     margin-top: 120px;
@@ -150,6 +153,10 @@ justify-content:space-around;
     text-align: left;
     font-size: 12px;
     width: 50%;
+}
+.see-more-txt{
+    color: #E02C6D;
+    text-align: right;
 }
 .section-4{
 text-align: center;
